@@ -4,3 +4,5 @@ guitests/.idea/
 guitests/target/classes/
 
 .idea/
+
+guitests/allure-results/
